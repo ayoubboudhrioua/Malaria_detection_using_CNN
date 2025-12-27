@@ -1,0 +1,25 @@
+# Deep Learning
+torch
+torchvision
+
+# Data Processing
+numpy
+pandas
+Pillow
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning Utils
+scikit-learn
+
+# Progress Bars 
+tqdm
+
+# Jupyter 
+jupyter
+ipykernel
+
+# For better plots 
+plotly

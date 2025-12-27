@@ -1,0 +1,10 @@
+# Data
+data/
+*.zip
+
+# Models
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
